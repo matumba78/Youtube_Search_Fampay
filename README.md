@@ -13,6 +13,6 @@
         Get api keys from google developer account and fill it in video_search/settings/YOUTUBEAPI_KEYS 
         run the following commands:
             docker-compose build
-            docer-compose up
+            docker-compose up
         
         
