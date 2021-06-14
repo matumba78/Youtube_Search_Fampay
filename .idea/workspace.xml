@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6697486a-bebc-492d-9403-885941866d35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ProjectId" id="1tpydhoHUVw07IdbAZxgc8pge0n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml.rabbitmq: Compose Deployment">
+    <configuration name="video_search" type="Python.DjangoServer" factoryName="Django server">
+      <module name="video_search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.rabbitmq: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="rabbitmq" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.rabbitmq: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6697486a-bebc-492d-9403-885941866d35" name="Default Changelist" comment="" />
+      <created>1623480415621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623480415621</updated>
+      <workItem from="1623480419943" duration="40282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623623456749">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="445" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.817@0.25.1440.817" timestamp="1623623456749" />
+    <state x="458" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623570925605">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="458" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.817@0.25.1440.817" timestamp="1623570925605" />
+    <state x="427" y="156" key="#docker-compose.yml.rabbitmq:_Compose_Deployment" timestamp="1623614402809">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="427" y="156" key="#docker-compose.yml.rabbitmq:_Compose_Deployment/0.25.1440.817@0.25.1440.817" timestamp="1623614402809" />
+    <state x="507" y="192" key="FileChooserDialogImpl" timestamp="1623481540219">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="507" y="192" key="FileChooserDialogImpl/0.25.1440.817@0.25.1440.817" timestamp="1623481540219" />
+    <state x="229" y="69" key="SettingsEditor" timestamp="1623481544467">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="229" y="69" key="SettingsEditor/0.25.1440.817@0.25.1440.817" timestamp="1623481544467" />
+    <state x="383" y="190" width="674" height="486" key="find.popup" timestamp="1623610113177">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="383" y="190" width="674" height="486" key="find.popup/0.25.1440.817@0.25.1440.817" timestamp="1623610113177" />
+    <state x="383" y="190" width="674" height="486" key="find.popup/0.25.1440.818@0.25.1440.818" timestamp="1623600398559" />
+    <state x="385" y="167" width="670" height="676" key="search.everywhere.popup" timestamp="1623607533050">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="385" y="167" width="670" height="676" key="search.everywhere.popup/0.25.1440.818@0.25.1440.818" timestamp="1623607533050" />
+  </component>
+</project>
